@@ -16,4 +16,4 @@
 <a href="https://www.facebook.com/profile.php?id=100095071557853"> Facebook Account</a>
 <a href="https://www.facebook.com/search/top?q=defacerph"> Organization's Page</a>
 <h1>SCREENSHOT</h1>
-<img src="https://e.top4top.io/p_2937d0fl01.png" height="50px" width="50px">
+<img src="https://e.top4top.io/p_2937d0fl01.png" height="100px" width="100px">
