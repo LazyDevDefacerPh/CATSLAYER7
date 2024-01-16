@@ -17,3 +17,5 @@
 <a href="https://www.facebook.com/search/top?q=defacerph"> Organization's Page</a>
 <h1>SCREENSHOT</h1>
 <img src="https://e.top4top.io/p_2937d0fl01.png">
+<h1>NOTE!</h1>
+<p>this tool is encrypted because I don't want someone will steal my code and then act like they are the one who created it :></p>
