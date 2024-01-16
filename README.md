@@ -10,3 +10,9 @@
 <p>python main.py</p>
 <h1>WARNING!</h1>
 <p>This tool is for educational purposes only, if the user attack any government websites, the developer is not involve!</p>
+<h1>CONTACT DEV</h1>
+<p>If you encounter some bugs please contact me in this social media platform.</p>
+<a href="https://www.facebook.com/profile.php?id=61554099692087"> Facebook Page </a>
+<a href="https://www.facebook.com/profile.php?id=100095071557853"> Facebook Account</a>
+<a href="https://www.facebook.com/search/top?q=defacerph"> Organization's Page</a>
+<h1>SCREENSHOT</h1>
